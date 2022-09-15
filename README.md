@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gijs</h1>
 <h3 align="center">A medical & artificial intelligence student from the Netherlands.</h3>
 
-🔭 I’m currently working on the [ASReview project](https://github.com/asreview)
+- 🔭 I’m currently working on the [ASReview project](https://github.com/asreview)
 
-📝 I specialize in NLP in the medical domain
+- 📝 I specialize in NLP in the medical domain
 
-📫 How to reach me: **gijsmourits1998@hotmail.com**
+- 📫 How to reach me: **gijsmourits1998@hotmail.com**
+
+- ⚡ I'm also a passionate photo-/videographer: [Instagram](https://instagram.com/gizza.nature)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
