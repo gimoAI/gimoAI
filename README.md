@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the [ASReview project](https://github.com/asreview)
 
-- 📝 I specialize in NLP in the medical domain
+- 📝 I specialize in NLP within the medical domain
 
 - 📫 How to reach me: **gijsmourits1998@hotmail.com**
 
