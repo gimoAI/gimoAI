@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **gijsmourits1998@hotmail.com**
 
-- ⚡ I'm also a passionate photo-/videographer: [Instagram](https://instagram.com/gizza.nature)
+- ⚡ I'm also a passionate photo-/videographer: [Instagram](https://instagram.com/gizza.nature) & [YouTube](https://www.youtube.com/channel/UCoxW82btGlzISVRY4VIKAOw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
