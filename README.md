@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **gijsmourits1998@hotmail.com**
 
-- ⚡ I'm also a passionate photo-/videographer, take a look at my [website](https://mourits-films.com/), [Instagram](https://instagram.com/gizza.nature) or [YouTube](https://www.youtube.com/channel/UCoxW82btGlzISVRY4VIKAOw)
+- ⚡ I'm also a passionate photo-/videographer, take a look at my [website](https://mourits-films.com/), [Instagram](https://www.instagram.com/mourits.films) or [YouTube](https://www.youtube.com/channel/UCoxW82btGlzISVRY4VIKAOw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
