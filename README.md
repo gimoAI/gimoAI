@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gijs</h1>
-<h3 align="center">A medical & artificial intelligence student from the Netherlands.</h3>
+<h3 align="center">Graduated in Artificial Intelligence and studied medicine for 5 years.</h3>
 
 - 🔭 I’m currently working on the [ASReview project](https://github.com/asreview)
 
