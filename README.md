@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gijs</h1>
 <h3 align="center">Graduated in Artificial Intelligence and studied medicine for 5 years.</h3>
 
-- 🔭 I’m currently working on the [ASReview project](https://github.com/asreview)
+- 🔭 I’ve recently worked on the [ASReview project](https://github.com/asreview)
 
-- 📝 I specialize in NLP within the medical domain
-
-- 📫 How to reach me: **gijsmourits1998@hotmail.com**
+- 📫 How to reach me: send me a message through my website or instagram (links below)
 
 - ⚡ I'm also a passionate photo-/videographer, take a look at my [website](https://mourits-films.com/), [Instagram](https://www.instagram.com/mourits.films) or [YouTube](https://www.youtube.com/channel/UCoxW82btGlzISVRY4VIKAOw)
 
