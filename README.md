@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gijs</h1>
 <h3 align="center">Graduated in Artificial Intelligence and studied medicine for 5 years.</h3>
 
+- I currently work as a Data Engineer at [Aurai](https://aurai.com/)
+
 - 🔭 I’ve recently worked on the [ASReview project](https://github.com/asreview)
 
 - 📫 How to reach me: send me a message through my website or instagram (links below)
